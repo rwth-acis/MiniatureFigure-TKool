@@ -16,9 +16,13 @@ How to install Vuforia Engine with Unity?
 How to activate Vuforia Engine in your projects?
 
   4. Vuforia Engine Game Objects ( Camera change )
+  
     - Open the global Vuforia Configuration Inspector
+    
     - Activate the target databases
+    
     - Add targets to your scene
+    
   5. Print Physical Target
   6. Adding digital assets
   7. Playing the scene
